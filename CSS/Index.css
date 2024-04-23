@@ -1,0 +1,11 @@
+h1{
+   font-size: 100%;
+   color: blueviolet;
+}
+
+h4{
+   color: cadetblue;
+   font-size: 300%;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   animation: h4 4s timing-function delay iteration-count direction fill-mode;
+} 
